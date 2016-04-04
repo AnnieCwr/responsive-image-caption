@@ -20,6 +20,7 @@ html {
 
 .img-flex {
   width: 100%;
+  display: block;
 }
 
 body {
@@ -34,7 +35,7 @@ figure {
 
 }
 
-figcaption p{
+figcaption p {
   font-family: Georgia;
 }
 
@@ -83,7 +84,7 @@ figcaption h2 {
 
   html {
     font-size: 120%;
-    line-height: 1.5rem;
+    line-height: 1.5;
   }
 
 }
@@ -92,7 +93,7 @@ figcaption h2 {
 
   html {
     font-size: 130%;
-    line-height: 1.5rem;
+    line-height: 1.5;
   }
 
 }
